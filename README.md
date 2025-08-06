@@ -1,0 +1,1 @@
+# 🐍 Basic Python syntax exercises
